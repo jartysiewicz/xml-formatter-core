@@ -1,0 +1,1 @@
+<parent><child><!--comment--></child><child><grandchild>øæå</grandchild></child><child><grandchild>xml text</grandchild></child><child><?target data?></child><child><![CDATA[cdata]]></child><empty/></parent>
